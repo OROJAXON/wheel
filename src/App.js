@@ -3,8 +3,8 @@ import './index.css';
 import Spinner from './Spinner';
 import ConfettiExplosion from 'react-confetti-explosion';
 
-const names = ['Alice', 'Bob', 'Charlie', 'David', 'Eva', 'Frank', 'Grace', 'Hannah'];
-const predeterminedWinner = 'Bob';
+const names = ['nobu', 'chip', 'mahoraga', 'sukuna', 'codenamesuper', 'Frank', 'Grace', 'Hannah'];
+const predeterminedWinner = 'sukuna';
 
 function App() {
   const [winner, setWinner] = useState('');
