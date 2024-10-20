@@ -3,8 +3,8 @@ import './index.css';
 import Spinner from './Spinner';
 import ConfettiExplosion from 'react-confetti-explosion';
 
-const names = ['zuuzblox', 'Chris', 'cjei', 'Eva', 'Franklin', 'Grace', 'Hannah', 'Luis', 'Zuuuz', 'Sure', 'Nice', ]
-const predeterminedWinner = 'Franklin';
+const names = ['zuuzblox', 'hem', 'frank', 'micheal', 'eze', 'henry', 'dad', 'mom', 'sister', 'brothere', ]
+const predeterminedWinner = 'frank';
 
 const WinnerModal = ({ isOpen, onClose, winner }) => {
   if (!isOpen) return null;
