@@ -3,7 +3,7 @@ import './index.css';
 import Spinner from './Spinner';
 import ConfettiExplosion from 'react-confetti-explosion';
 
-const names = ['frank', 'mommy', 'dad', 'henry', 'mch', ]
+const names = ['frank', 'mommy', 'dad', 'henry', 'mh', 'nate55fort', 'joel', 'xstooker', 'heheboi272', 'luffy55', 'uhar_w' 'lovefootball127', 'abeelihj1', 'hitman', 'ccdio', 'gamingwithmike', 'kayla', 'giovannie', 'jahsir', 'baky1542', 'dari', 'thenoneaccount', 'jayjay', 'nimman95', 'endernoob', 'spoddermanted', 'ddgg83', 'momo', 'chibby', 'jaypulgi2', 'izzy', 'mr smuff', 'ripchxppa', 'marky_3', 'onlyrip', 'jacknumber1 hater', 'ezelyno1', 'theonewhokno', 'youngbull', 'iq123', 'hahahahaahha', 'samauriii', 'jeffykia', 'falco', 'lodz_w', 'zjmonk', 'malacai', 'momo', 'spay', 'the reaper', ]
 const predeterminedWinner = 'dad';
 
 const WinnerModal = ({ isOpen, onClose, winner }) => {
