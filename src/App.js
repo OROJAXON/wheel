@@ -4,7 +4,7 @@ import Spinner from './Spinner';
 import ConfettiExplosion from 'react-confetti-explosion';
 
 const names = ['eze', 'Exectergod', 'moon', 'bloxfruit', 'Jonny', 'cory', 'titan', 'yan', 'stun', 'chris', 'mason', ]
-const predeterminedWinner = 'eze';
+const predeterminedWinner = 'cory';
 
 const WinnerModal = ({ isOpen, onClose, winner }) => {
   if (!isOpen) return null;
